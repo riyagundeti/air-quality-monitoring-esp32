@@ -107,7 +107,7 @@ Humidity
 ---
 
 ## 🎥 Demo Video
-[Watch Project Demo](https://drive.google.com/file/d/1TI3VHRtya2As3mA0z4Za6jyWypq4IFRu/view?usp=sharing)
+[Watch Project Demo](https://drive.google.com/file/d/1UtJwxZI67C1A-NcJ4m9rD8gQ7Pl8BQ9L/view?usp=sharing)
 
 ---
 
