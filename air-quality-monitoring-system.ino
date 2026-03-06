@@ -7,8 +7,8 @@
 #include <DHT.h>
 
 // WiFi
-char ssid[] = "SAKEC-LOCAL";
-char pass[] = "SAKEC@123";
+char ssid[] = "YourWifiName";
+char pass[] = "YourWifiPassword";
 
 // MQ135
 #define MQ135_PIN 34
@@ -99,6 +99,7 @@ void loop() {
   Blynk.run();
   timer.run();
 }
+
 
 
 
