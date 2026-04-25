@@ -1,12 +1,12 @@
-# 🌿 Air Quality Monitoring System (ESP32 + Blynk IoT)
+#  Air Quality Monitoring System (ESP32 + Blynk IoT)
 
-## 📌 Project Overview
+## Project Overview
 This project is an IoT-based Air Quality Monitoring System built using **ESP32 (Arduino framework)**.  
 It measures air quality using the **MQ135 gas sensor** and temperature/humidity using the **DHT11 sensor**.  
 
 Air quality levels are indicated using LEDs and monitored remotely through the **Blynk IoT Cloud platform**.
 
-## 🧰 Technology Stack
+## Technology Stack
 
 **Programming Language:**  
 - C++ (Arduino Framework)
@@ -23,7 +23,7 @@ Air quality levels are indicated using LEDs and monitored remotely through the *
 
 ---
 
-## 🛠 Hardware Components
+## Hardware Components
 
 - ESP32 Microcontroller  
 - MQ135 Gas Sensor  
@@ -36,7 +36,7 @@ Air quality levels are indicated using LEDs and monitored remotely through the *
 
 ---
 
-## ⚙️ System Working
+## System Working
 
 1. MQ135 continuously senses air quality levels.
 2. ESP32 reads analog values from the MQ135 sensor.
@@ -50,13 +50,13 @@ Air quality levels are indicated using LEDs and monitored remotely through the *
 
 ---
 
-## 🔌 Circuit Diagram
+## Circuit Diagram
 
 ![Circuit Diagram](circuit-diagram.jpeg)
 
 ---
 
-## ☁️ Blynk Cloud Integration Setup
+## Blynk Cloud Integration Setup
 
 1. Create an account on **Blynk IoT Platform**.
 2. Create a new template and device.
@@ -80,7 +80,7 @@ Humidity
 
 --
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Install Requirements
 - Install **Arduino IDE**
@@ -106,11 +106,11 @@ Humidity
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 [Watch Project Demo](https://drive.google.com/file/d/1UtJwxZI67C1A-NcJ4m9rD8gQ7Pl8BQ9L/view?usp=sharing)
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 Integration of a GPS Neo module for location-based air quality tracking and an OLED display for real-time on-device visualization.
 
