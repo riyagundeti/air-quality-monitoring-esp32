@@ -4,7 +4,7 @@
 This project is an IoT-based Air Quality Monitoring System built using **ESP32 (Arduino framework)**.  
 It measures air quality using the **MQ135 gas sensor** and temperature/humidity using the **DHT11 sensor**.  
 
-Air quality levels are indicated using LEDs and monitored remotely through the **Blynk IoT Cloud platform**.
+Air quality levels are indicated using LEDs and monitored remotely through the **Blynk IOT Cloud platform**.
 
 ## Technology Stack
 
